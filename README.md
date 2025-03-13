@@ -19,4 +19,4 @@ This repository contains various business intelligence (BI) experiments, includi
 | 10(a)        | `exp_10(a).pbix`           | Power BI report for experiment 10(a)    |
 | 11           | `Exp_11.pbix`              | Power BI report for experiment 11       |
 | 12           | `exp_12.xlsx`              | Excel analysis file for experiment 12   |
-| -            | `027_BI_record.pdf`        | BI record documentation                 |
+| -            | `503_BI_record.pdf`        | BI record documentation                 |
